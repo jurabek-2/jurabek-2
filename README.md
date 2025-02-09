@@ -31,13 +31,23 @@
 
 ---
 
-## 📊 My GitHub Stats:
+## 🚀 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jurabek-2&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurabek-2&theme=radical&hide_border=true" height="180"/>
+  <a href="https://github.com/jurabek-2">
+    <img src="https://github-readme-stats.vercel.app/api?username=jurabek-2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
+  </a>
+  <a href="https://github.com/jurabek-2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurabek-2&theme=tokyonight&hide_border=true" height="180"/>
+  </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurabek-2&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <a href="https://github.com/jurabek-2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurabek-2&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  </a>
 </div>
+
+---
+
+
 
 
 
