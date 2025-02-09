@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java Core-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Aiogram-00688C?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -31,5 +32,9 @@
 
 ### 📈 My GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jurabek-2&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-streak-st
+  <img src="https://github-readme-stats.vercel.app/api?username=jurabek-2&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurabek-2&theme=radical&hide_border=true" height="180"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurabek-2&layout=compact&theme=radical&hide_border=true" height="150"/>
+</div>
+
