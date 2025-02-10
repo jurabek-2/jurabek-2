@@ -1,57 +1,64 @@
-<h1 align="center">🚀 Hey there, I'm Jurabek! 👋</h1>
-<h3 align="center">A Passionate Backend Developer Specializing in Web Development</h3>
+# Hi there, I'm Jo'rabek Norqulov! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="300" />
-</p>
+🚀 Backend Developer | Python | Django | DRF | PostgreSQL  
+💡 2.5 yillik tajriba | Mustahkam arxitektura | RESTful API lar | Telegram botlar  
 
 ---
 
-## 📫 Connect with Me:
-<p align="center">
-  <a href="mailto:norqulovjorabek533@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jurab_ekuzb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/jurabek_bekk" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+## 🚀 About Me
+
+- 🔥 2.5+ yillik tajribaga ega backend dasturchi sifatida kuchli va ishonchli tizimlarni yarataman.
+- 🛠 Django & DRF orqali tezkor, xavfsiz va skalab qilinadigan RESTful API lar ishlab chiqaman.
+- 🤖 Aiogram yordamida aqlli va avtomatlashtirilgan Telegram botlar yarataman.
+- ⚡️ PostgreSQL bilan katta hajmdagi ma’lumotlarni optimallashtirish va boshqarish bo‘yicha tajribaga egaman.
+- 🔄 Git & GitHub orqali jamoaviy ishlashni mukammal tushunaman.
+- 🌍 Ingliz (A2) va Rus (B1) tillarini bilaman, texnik dokumentatsiyalar bilan ishlay olaman.
 
 ---
 
-## 🚀 Technologies & Tools I Work With:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aiogram-00688C?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+## 🔥 My Tech Stack
+
+Backend 🖥  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)  
+
+Databases 🗄  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+Tools & DevOps ⚙️  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-## 🚀 GitHub Stats
-<div align="center">
-  <a href="https://github.com/jurabek-2">
-    <img src="https://github-readme-stats.vercel.app/api?username=jurabek-2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
-  </a>
-  <a href="https://github.com/jurabek-2">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurabek-2&theme=tokyonight&hide_border=true" height="180"/>
-  </a>
-  <br>
-  <a href="https://github.com/jurabek-2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurabek-2&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-  </a>
-</div>
+## 🚀 My Best Projects
+
+### 🔥 [1. Library Management System](https://github.com/jurabek-2/library-management) 📚
+✅ Django & DRF asosida yaratilgan zamonaviy kutubxona boshqarish tizimi.
+✅ Role-based authentication (Admin, User).
+✅ PostgreSQL bilan optimallashtirilgan ma’lumotlar bazasi.
+
+### 🤖 [2. Smart Telegram Bot](https://github.com/jurabek-2/smart-telegram-bot) 🤖
+✅ Aiogram yordamida yozilgan avtomatlashtirilgan bot.
+✅ Ma’lumotlar bazasi bilan integratsiya.
+✅ CRUD amallarini bajarish imkoniyati.
+
+### 🌍 [3. RESTful API for E-commerce](https://github.com/jurabek-2/ecommerce-api) 🛒
+✅ Django & DRF asosida ishlab chiqilgan e-commerce API.
+✅ JWT authentication.
+✅ Stripe orqali to‘lov tizimi integratsiyasi.
 
 ---
 
+## 📈 GitHub Stats  
 
+![Jurabek's GitHub stats](https://github-readme-stats.vercel.app/api?username=jurabek-2&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurabek-2&layout=compact&theme=radical)  
 
+---
 
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
-</p>
-
+📧 Email: norqulovjorabek533@gmail.com  
+🔗 GitHub: [jurabek-2](https://github.com/jurabek-2)
