@@ -54,3 +54,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
 </p>
+
+### ⭐ GitHub Achievements  
+![GitHub Stars](https://img.shields.io/github/stars/jurabek-2?style=social)  
+![GitHub Forks](https://img.shields.io/github/forks/jurabek-2?style=social)  
+![GitHub Followers](https://img.shields.io/github/followers/jurabek-2?style=social)  
