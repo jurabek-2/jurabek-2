@@ -7,11 +7,21 @@
 
 ---
 
+## 👨‍💻 About Me:
+- 🔭 I’m currently working on **JobFinder – A Job Search Platform**
+- 🌱 I’m learning **DevOps, Docker, and Cloud Computing**
+- 💡 I love solving **complex backend problems and optimizing web applications**
+- 📚 Passionate about **Open Source Contributions and System Design**
+- 🎯 Goal: To become a **Fullstack Developer** and work on scalable applications
+
+---
+
 ## 📫 Connect with Me:
 <p align="center">
   <a href="mailto:norqulovjorabek533@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/jurab_ekuzb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/jurabek_bekk" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jurabek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -28,15 +38,21 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
-
-
 
 ---
 
-## 🚀 GitHub Stats
+## 🔥 My Notable Projects:
+- 🔗 [JobFinder – Job Search Platform](https://github.com/jurabek-2/jobfinder) - **Django & React** based job listing platform.
+- 🤖 [Intelligent Telegram Bot](https://github.com/jurabek-2/telegram-bot) - **Aiogram** powered smart bot.
+- 📚 [Library Management System](https://github.com/jurabek-2/library02) - Web-based **library management** application.
+- 🛒 [E-commerce API](https://github.com/jurabek-2/ecommerce-api) - Scalable **REST API** for online stores.
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/jurabek-2">
     <img src="https://github-readme-stats.vercel.app/api?username=jurabek-2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
@@ -52,11 +68,14 @@
 
 ---
 
+## 📈 Profile Views & Contribution Graph
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jurabek-2&label=Profile%20Views&color=blue&style=plastic"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jurabek-2&theme=tokyonight"/>
+</p>
 
-
-
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
 </p>
-.
