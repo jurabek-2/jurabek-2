@@ -7,14 +7,6 @@
 
 ---
 
-## 👨‍💻 About Me:
-- 🔭 I’m currently working on **JobFinder – A Job Search Platform**
-- 🌱 I’m learning **DevOps, Docker, and Cloud Computing**
-- 💡 I love solving **complex backend problems and optimizing web applications**
-- 📚 Passionate about **Open Source Contributions and System Design**
-- 🎯 Goal: To become a **Fullstack Developer** and work on scalable applications
-
----
 
 ## 📫 Connect with Me:
 <p align="center">
@@ -44,13 +36,6 @@
 
 ---
 
-## 🔥 My Notable Projects:
-- 🔗 [JobFinder – Job Search Platform](https://github.com/jurabek-2/jobfinder) - **Django & React** based job listing platform.
-- 🤖 [Intelligent Telegram Bot](https://github.com/jurabek-2/telegram-bot) - **Aiogram** powered smart bot.
-- 📚 [Library Management System](https://github.com/jurabek-2/library02) - Web-based **library management** application.
-- 🛒 [E-commerce API](https://github.com/jurabek-2/ecommerce-api) - Scalable **REST API** for online stores.
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
