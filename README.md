@@ -10,5 +10,4 @@ A Passionate Backend Developer Specializing in Full-Stack Web Development
 📈 Profile Views & Contribution Graph:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jurabek-2&label=Profile%20Views&color=blue&style=plastic"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jurabek-2&theme=tokyonight"/> </p>
 <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" /> </p>
-About Me:
-I am a professional backend developer specializing in creating scalable and efficient web applications. With extensive experience in backend technologies like Python, Django, and JavaScript, I also have hands-on experience with a wide range of tools such as Docker, AWS, and PostgreSQL. My approach is focused on delivering robust and user-friendly solutions that drive business success. Passionate about clean code, continuous learning, and collaborating with teams to achieve the best possible outcomes.
+
