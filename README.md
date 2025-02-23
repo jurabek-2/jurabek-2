@@ -34,7 +34,12 @@ I thrive on building **scalable, high-performance applications** and creating cl
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-2C6EB2?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aiogram-00688C?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
+
 
 ### Frontend:
 <p align="center">
