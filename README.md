@@ -79,7 +79,7 @@ I thrive on building **scalable, high-performance applications** and creating cl
 ---
 
 ## 💻 Let's Build Something Amazing Together!
-I'm always eager to take on new challenges and collaborate with talented teams to build cutting-edge applications that make a real impact. If you're looking for a developer with both a deep understanding of backend systems and a flair for frontend design, look no further. Let's connect and see how we can create something extraordinary.
+I'm always eager to take on new challenges and collaborate with talented teams to build cutting-edge applications that make a real impact. If you're looking for a developer with both a deep understanding of backend systems and a flair for frontend design, look no further. Let's connect and see how we can create something extraordinary..
 
 ---
 
