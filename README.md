@@ -50,21 +50,40 @@ I thrive on building **scalable, high-performance applications** and creating cl
 </p>
 
 ---
-
 ## 🔥 GitHub Stats & Contribution:
-
 <div align="center">
+  <!-- Stats Card -->
   <a href="https://github.com/jurabek-2">
-    <img src="https://github-readme-stats.vercel.app/api?username=jurabek-2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jurabek-2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" width="350" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"/>
   </a>
+  <!-- Streak Card -->
   <a href="https://github.com/jurabek-2">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurabek-2&theme=tokyonight&hide_border=true" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurabek-2&theme=tokyonight&hide_border=true" height="180" width="350" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"/>
   </a>
   <br>
+  <!-- Top Languages Card -->
   <a href="https://github.com/jurabek-2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurabek-2&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurabek-2&layout=compact&theme=tokyonight&hide_border=true" height="150" width="350" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"/>
   </a>
 </div>
+
+<!-- Custom CSS -->
+<style>
+  body {
+    background: #1a1b27;
+    font-family: 'Arial', sans-serif;
+  }
+  img {
+    transition: transform 0.3s ease-in-out;
+  }
+  img:hover {
+    transform: scale(1.05);
+  }
+  a {
+    text-decoration: none;
+  }
+</style>
+
 
 ---
 
