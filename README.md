@@ -67,22 +67,7 @@ I thrive on building **scalable, high-performance applications** and creating cl
   </a>
 </div>
 
-<!-- Custom CSS -->
-<style>
-  body {
-    background: #1a1b27;
-    font-family: 'Arial', sans-serif;
-  }
-  img {
-    transition: transform 0.3s ease-in-out;
-  }
-  img:hover {
-    transform: scale(1.05);
-  }
-  a {
-    text-decoration: none;
-  }
-</style>
+
 
 
 ---
