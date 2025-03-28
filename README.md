@@ -70,8 +70,9 @@ I thrive on building **scalable, high-performance applications** and creating cl
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzt9z3WnO/giphy.gif" width="600" />
 </p>
+
 
 
 ### 🐍 GitHub Activity Snake  
