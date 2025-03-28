@@ -73,6 +73,5 @@ I thrive on building **scalable, high-performance applications** and creating cl
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" />
 </p>
 
-### 🐍 GitHub Contribution Snake  
-![Snake animation](https://github.com/jurabek-2/jurabek-2/blob/output/github-contribution-grid-snake.svg)
+
 
