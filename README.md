@@ -7,7 +7,7 @@
 
 ----
 
-## 📫 Let's Connect and Collaborate!
+## 👫 Let's Connect and Collaborate!
 <p align="center">
   <a href="mailto:norqulovjorabek533@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/jurab_ekuzb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -67,16 +67,8 @@ I thrive on building **scalable, high-performance applications** and creating cl
   </a>
 </div>
 
-
-
-
----
-
-
-
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" />
 </p>
-
