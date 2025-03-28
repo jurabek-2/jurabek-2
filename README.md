@@ -75,29 +75,4 @@ I thrive on building **scalable, high-performance applications** and creating cl
 
 
 
-name: Generate Snake Animation
 
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
-      - name: Generate the Snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: jurabek-2
-          outputs: |
-            github-contribution-grid-snake.svg
-      - name: Commit and push
-        uses: EndBug/add-and-commit@v7
-        with:
-          message: "Generated snake animation"
-          add: "github-contribution-grid-snake.svg"
