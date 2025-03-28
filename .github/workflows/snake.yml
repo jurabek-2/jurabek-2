@@ -2,9 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Har kuni tunda avtomatik ishlaydi
-
-  workflow_dispatch: # Qo'lda ishga tushirish uchun
+    - cron: "0 0 * * *"  # Har kuni yarim tunda ishga tushadi
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,16 +12,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: jurabek-2
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake.svg
 
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate Snake Animation"
-          add: "github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg"
+      - name: Push animation to GitHub
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add dist/github-snake.svg
+          git commit -m "Updated snake animation"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
