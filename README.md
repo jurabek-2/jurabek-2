@@ -75,7 +75,5 @@ I thrive on building **scalable, high-performance applications** and creating cl
 
 
 
-### 🐍 GitHub Activity Snake  
-![Snake animation](https://github.com/jurabek-2/jurabek-2/blob/output/github-contribution-grid-snake.svg)
 
 
