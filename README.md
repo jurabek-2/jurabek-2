@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/jurabek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-----
+-----
 
 ## 💡 About Me:
 Hello there! I'm Jurabek, a **Full-Stack Developer** passionate about solving complex problems with elegant solutions. I specialize in **backend development** using Python, Django, and other technologies, but I also have strong expertise in **frontend development** with JavaScript, HTML5, and CSS3.
