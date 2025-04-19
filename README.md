@@ -22,7 +22,7 @@ Hello there! I'm Jurabek, a **Full-Stack Developer** passionate about solving co
 
 I thrive on building **scalable, high-performance applications** and creating clean, maintainable code. Whether it's developing an intuitive UI or architecting a robust backend, I’m deeply committed to delivering exceptional web experiences. Always up-to-date with the latest trends in tech, I aim to implement cutting-edge practices that ensure efficient, future-proof solutions.
 
------
+------
 
 ## 🛠 Technologies & Tools I Work With:
 ### Backend:
